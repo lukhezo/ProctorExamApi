@@ -6,3 +6,4 @@ C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api
 C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.csproj.CopyComplete
 C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.exe
 C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.pdb
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.csprojResolveAssemblyReference.cache
