@@ -1,0 +1,8 @@
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\bin\Debug\api_request_helpers.exe.config
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\bin\Debug\api_request_helpers.exe
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\bin\Debug\api_request_helpers.pdb
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\bin\Debug\RestSharp.dll
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.csproj.CoreCompileInputs.cache
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.csproj.CopyComplete
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.exe
+C:\Users\IraL\source\repos\api_request_helpers\api_request_helpers\obj\Debug\api_request_helpers.pdb
